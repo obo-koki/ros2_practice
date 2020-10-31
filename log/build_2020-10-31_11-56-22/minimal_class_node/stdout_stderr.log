@@ -1,0 +1,29 @@
+-- Found ament_cmake: 0.7.5 (/home/koki/ros2_dashing/install/ament_cmake/share/ament_cmake/cmake)
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found rclcpp: 0.7.14 (/home/koki/ros2_dashing/install/rclcpp/share/rclcpp/cmake)
+-- Found rosidl_adapter: 0.7.9 (/home/koki/ros2_dashing/install/rosidl_adapter/share/rosidl_adapter/cmake)
+-- Found rmw_implementation_cmake: 0.7.2 (/home/koki/ros2_dashing/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found ament_lint_auto: 0.7.12 (/home/koki/ros2_dashing/install/ament_lint_auto/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: 
+-- Added test 'cpplint' to check C / C++ code against the Google style
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'uncrustify' to check C / C++ code style
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+CMake Error at CMakeLists.txt:33 (add_executable):
+  Cannot find source file:
+
+    src/main.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .m .M .mm .h .hh .h++ .hm .hpp
+  .hxx .in .txx
+
+
+CMake Error: CMake can not determine linker language for target: minimal_node_test
+CMake Error: Cannot determine link language for target "minimal_node_test".
+-- Generating done
+-- Build files have been written to: /home/koki/ros2_studies_ws/build/minimal_class_node

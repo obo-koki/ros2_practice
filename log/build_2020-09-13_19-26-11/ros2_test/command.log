@@ -1,0 +1,2 @@
+Invoking command in '/home/koki/ros2_studies_ws/build/ros2_test': /usr/bin/cmake --build /home/koki/ros2_studies_ws/build/ros2_test -- -j8 -l8
+Invoked command in '/home/koki/ros2_studies_ws/build/ros2_test' returned '2': /usr/bin/cmake --build /home/koki/ros2_studies_ws/build/ros2_test -- -j8 -l8

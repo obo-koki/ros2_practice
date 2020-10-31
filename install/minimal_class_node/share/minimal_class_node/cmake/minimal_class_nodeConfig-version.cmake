@@ -1,0 +1,1 @@
+/home/koki/ros2_studies_ws/build/minimal_class_node/ament_cmake_core/minimal_class_nodeConfig-version.cmake

@@ -1,0 +1,29 @@
+running develop
+Removing /home/koki/ros2_studies_ws/install/ros2_demo_py/lib/python3.6/site-packages/ros2-demo-py.egg-link (link to .)
+running egg_info
+writing /home/koki/ros2_studies_ws/build/ros2_demo_py/ros2_demo_py.egg-info/PKG-INFO
+writing dependency_links to /home/koki/ros2_studies_ws/build/ros2_demo_py/ros2_demo_py.egg-info/dependency_links.txt
+writing entry points to /home/koki/ros2_studies_ws/build/ros2_demo_py/ros2_demo_py.egg-info/entry_points.txt
+writing requirements to /home/koki/ros2_studies_ws/build/ros2_demo_py/ros2_demo_py.egg-info/requires.txt
+writing top-level names to /home/koki/ros2_studies_ws/build/ros2_demo_py/ros2_demo_py.egg-info/top_level.txt
+reading manifest file '/home/koki/ros2_studies_ws/build/ros2_demo_py/ros2_demo_py.egg-info/SOURCES.txt'
+writing manifest file '/home/koki/ros2_studies_ws/build/ros2_demo_py/ros2_demo_py.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/koki/ros2_studies_ws/build/ros2_demo_py/build
+creating /home/koki/ros2_studies_ws/build/ros2_demo_py/build/lib
+creating /home/koki/ros2_studies_ws/build/ros2_demo_py/build/lib/script
+copying script/__init__.py -> /home/koki/ros2_studies_ws/build/ros2_demo_py/build/lib/script
+copying script/demo.py -> /home/koki/ros2_studies_ws/build/ros2_demo_py/build/lib/script
+running install
+running install_lib
+creating /home/koki/ros2_studies_ws/install/ros2_demo_py/lib/python3.6/site-packages/script
+copying /home/koki/ros2_studies_ws/build/ros2_demo_py/build/lib/script/demo.py -> /home/koki/ros2_studies_ws/install/ros2_demo_py/lib/python3.6/site-packages/script
+copying /home/koki/ros2_studies_ws/build/ros2_demo_py/build/lib/script/__init__.py -> /home/koki/ros2_studies_ws/install/ros2_demo_py/lib/python3.6/site-packages/script
+byte-compiling /home/koki/ros2_studies_ws/install/ros2_demo_py/lib/python3.6/site-packages/script/demo.py to demo.cpython-36.pyc
+byte-compiling /home/koki/ros2_studies_ws/install/ros2_demo_py/lib/python3.6/site-packages/script/__init__.py to __init__.cpython-36.pyc
+running install_egg_info
+Copying /home/koki/ros2_studies_ws/build/ros2_demo_py/ros2_demo_py.egg-info to /home/koki/ros2_studies_ws/install/ros2_demo_py/lib/python3.6/site-packages/ros2_demo_py-0.6.1-py3.6.egg-info
+running install_scripts
+Installing demo script to /home/koki/ros2_studies_ws/install/ros2_demo_py/lib/ros2_demo_py
+writing list of installed files to '/home/koki/ros2_studies_ws/build/ros2_demo_py/install.log'

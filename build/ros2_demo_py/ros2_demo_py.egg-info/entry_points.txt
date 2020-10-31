@@ -1,0 +1,4 @@
+[console_scripts]
+demo = script.demo:main
+demo_sub = script.demo_sub:main
+

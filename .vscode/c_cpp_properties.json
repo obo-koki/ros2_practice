@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/usr/include/**",
+                "/home/koki/ros2_dashing/src/**",
+                "/home/koki/ros2_dashing/src/ros2/rclcpp/rclcpp/include/**",
+                "/opt/ros/dashing/include/**",
+                "/opt/ros/dashing/include",
+                "/home/koki/ros2_studies_ws/install/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}

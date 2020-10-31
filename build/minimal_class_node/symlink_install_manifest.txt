@@ -1,0 +1,12 @@
+/home/koki/ros2_studies_ws/install/minimal_class_node/lib/minimal_class_node/minimal_node_test
+/home/koki/ros2_studies_ws/install/minimal_class_node/share/ament_index/resource_index/package_run_dependencies/minimal_class_node
+/home/koki/ros2_studies_ws/install/minimal_class_node/share/ament_index/resource_index/parent_prefix_path/minimal_class_node
+/home/koki/ros2_studies_ws/install/minimal_class_node/share/minimal_class_node/environment/ament_prefix_path.sh
+/home/koki/ros2_studies_ws/install/minimal_class_node/share/minimal_class_node/environment/path.sh
+/home/koki/ros2_studies_ws/install/minimal_class_node/share/minimal_class_node/local_setup.bash
+/home/koki/ros2_studies_ws/install/minimal_class_node/share/minimal_class_node/local_setup.sh
+/home/koki/ros2_studies_ws/install/minimal_class_node/share/minimal_class_node/local_setup.zsh
+/home/koki/ros2_studies_ws/install/minimal_class_node/share/ament_index/resource_index/packages/minimal_class_node
+/home/koki/ros2_studies_ws/install/minimal_class_node/share/minimal_class_node/cmake/minimal_class_nodeConfig.cmake
+/home/koki/ros2_studies_ws/install/minimal_class_node/share/minimal_class_node/cmake/minimal_class_nodeConfig-version.cmake
+/home/koki/ros2_studies_ws/install/minimal_class_node/share/minimal_class_node/package.xml

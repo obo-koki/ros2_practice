@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/koki/ros2_studies_ws/build/example_interfaces/rosidl_generator_py/example_interfaces/libexample_interfaces__python.so" "TARGETS" "example_interfaces__python" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "bin")
