@@ -1,1 +1,0 @@
-ament_cmake_symlink_install_targets("TARGET_FILES" "/home/koki/ros2_studies_ws/build/example_interfaces/rosidl_generator_py/example_interfaces/example_interfaces_s__rosidl_typesupport_c.cpython-36m-x86_64-linux-gnu.so" "TARGETS" "example_interfaces__rosidl_typesupport_c__pyext" "DESTINATION" "lib/python3.6/site-packages/example_interfaces")

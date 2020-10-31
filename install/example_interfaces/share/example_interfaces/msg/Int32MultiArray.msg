@@ -1,1 +1,0 @@
-/home/koki/ros2_studies_ws/example_interfaces/msg/Int32MultiArray.msg

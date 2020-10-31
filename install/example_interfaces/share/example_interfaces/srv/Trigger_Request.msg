@@ -1,1 +1,0 @@
-/home/koki/ros2_studies_ws/build/example_interfaces/rosidl_cmake/srv/Trigger_Request.msg
